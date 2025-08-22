@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/chamudi01?style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/chamudi01?tab=followers"><img src="https://img.shields.io/github/followers/chamudi01?style=social" alt="GitHub followers"></a>
   <a href="www.linkedin.com/in/chamudi-bhawanthi-04b150316"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:cbhawanthi"><img src="https://img.shields.io/badge/Email-Contact-informational" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=chamudi01&label=Profile%20views" alt="Profile views">
