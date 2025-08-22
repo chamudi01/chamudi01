@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=social" alt="GitHub followers"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-informational" alt="Email"></a>
+  <a href="https://github.com/YOUR-USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/chamudi01?style=social" alt="GitHub followers"></a>
+  <a href="www.linkedin.com/in/chamudi-bhawanthi-04b150316"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:cbhawanthi"><img src="https://img.shields.io/badge/Email-Contact-informational" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=chamudi01&label=Profile%20views" alt="Profile views">
 </p>
 
@@ -57,7 +57,7 @@
 | **Beverage Distributor IMS** | Inventory & order tracking with distributor profit calculations | Python/Flask *(or PHP)* • SQLite/MySQL |
 | **DreamCampus OOP** | Lecturer management using abstraction, inheritance & polymorphism | Java • OOP |
 
-> 🔗 Repos: [LivManagement](https://github.com/chamudi01/LivManagement) • [Distributor-IMS](https://github.com/chamudi01/distributor-ims) • [DreamCampus](https://github.com/chamudi01/dreamcampus)
+> 🔗 Repos: [LivManagement](https://github.com/chamudi01/LivManagement) 
 
 ---
 
@@ -81,7 +81,7 @@
 ---
 
 ### 🤝 Let’s connect
-- 💼 LinkedIn: www.linkedin.com/in/chamudi-bhawanthi-04b150316– `https://linkedin.com/in/YOUR-LINKEDIN`
+- 💼 LinkedIn: www.linkedin.com/in/chamudi-bhawanthi-04b150316
 - ✉️ Email: cbhawanthi@gmail.com
 - 🌍 Portfolio: `https://YOUR-PORTFOLIO.site` *(optional)*
 
