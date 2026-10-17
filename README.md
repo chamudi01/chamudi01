@@ -183,8 +183,6 @@ My full-stack development experience complements my data science work by helping
 
 </div>
 
-> GitHub language statistics reflect repository code, not proficiency in a language.
-
 ---
 
 ## 🌱 Currently Exploring
