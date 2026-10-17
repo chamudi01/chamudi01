@@ -1,6 +1,10 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,50:2563eb,100:06b6d4&text=Chamudi%20Bhawanthi&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=60&animation=fadeIn" alt="Animated profile banner" />
+
 # Hi, I'm Chamudi Bhawanthi 👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Science+Undergraduate;Machine+Learning+%26+Predictive+Analytics;NLP+%7C+Financial+Data+Analytics;Building+Data-Driven+Solutions" alt="Animated typing introduction" /></a>
 
 ### Data Science Undergraduate | Machine Learning & Predictive Analytics | NLP Enthusiast
 
@@ -33,6 +37,11 @@ I enjoy working across the data science lifecycle—from preparing and exploring
 ---
 
 ## 🛠️ Technical Skills
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,mysql,postgres,git,github,githubactions,docker,aws,fastapi,php,laravel,js&perline=7" alt="Technology icons" />
+</div>
+
 
 **Languages & Data**
 
@@ -167,6 +176,13 @@ My full-stack development experience complements my data science work by helping
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamudi01&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
+
+</div>
+
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=chamudi01&show_icons=true&hide_border=true&rank_icon=github" alt="Chamudi's GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamudi01&layout=compact&hide_border=true" alt="Most used GitHub languages" height="165" />
 
@@ -201,4 +217,15 @@ I'm interested in **Data Science, Machine Learning, and Data Analytics internshi
 
 *Learning continuously, building thoughtfully, and turning data into impact.* 🌱
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:2563eb,100:06b6d4" alt="Decorative footer wave" />
+
 </div>
+
+<!--
+ANIMATION NOTES
+- GitHub profile READMEs do not run arbitrary JavaScript or CSS animations.
+- The typing text and banner animation use remotely generated SVG images.
+- Activity graph and statistics depend on third-party services and may occasionally be unavailable.
+- Optional contribution snake animation requires a GitHub Actions workflow and generated SVG output;
+  it is intentionally not included as a broken image.
+-->
