@@ -176,13 +176,6 @@ My full-stack development experience complements my data science work by helping
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamudi01&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
-
-</div>
-
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=chamudi01&show_icons=true&hide_border=true&rank_icon=github" alt="Chamudi's GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamudi01&layout=compact&hide_border=true" alt="Most used GitHub languages" height="165" />
 
