@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,50:2563eb,100:06b6d4&text=Chamudi%20Bhawanthi&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=60&animation=fadeIn" alt="Animated profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,50:2563eb,100:06b6d4&text=Chamudi%20Bhawanthi&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Science%20%7C%20Business%20Intelligence%20%7C%20Analytics&descAlignY=60&animation=fadeIn" alt="Animated profile banner" />
 
-# Hi, I'm Chamudi Bhawanthi 👋
+# Hi, I'm Chamudi 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Science+Undergraduate;Machine+Learning+%26+Predictive+Analytics;NLP+%7C+Financial+Data+Analytics;Building+Data-Driven+Solutions" alt="Animated typing introduction" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Machine+Learning+%26+Predictive+Analytics+%F0%9F%93%88;Business+Intelligence+%26+Analytics+%F0%9F%93%8A;Natural+Language+Processing+%F0%9F%A7%A0;Data-Driven+Decision+Making+%F0%9F%92%A1;Turning+Data+into+Business+Insights+%F0%9F%9A%80" alt="Animated typing introduction" /></a>
 
-### Data Science Undergraduate | Machine Learning & Predictive Analytics | NLP Enthusiast
+### 🎓 Data Science Undergraduate | Aspiring Data Scientist
 
 **BSc (Hons) in Data Science** · Sabaragamuwa University of Sri Lanka 🇱🇰
 
-*Turning data into meaningful insights and practical, user-friendly solutions.*
+*Transforming complex data into meaningful insights, intelligent predictions, and better business decisions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamudi-bhawanthi-04b150316/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cbhawanthi@gmail.com)
@@ -24,12 +24,12 @@
 
 ## 👩‍💻 About Me
 
-I'm a **second-year Data Science undergraduate** at **Sabaragamuwa University of Sri Lanka**, interested in applying data science to real-world problems. My work focuses on **machine learning, predictive modeling, exploratory data analysis, natural language processing, and time series forecasting**.
+I'm a **third-year Data Science undergraduate** at **Sabaragamuwa University of Sri Lanka**, interested in applying data science to real-world problems. My work focuses on **machine learning, predictive modeling, exploratory data analysis, natural language processing, business intelligence, business analytics, and time series forecasting**.
 
 I enjoy working across the data science lifecycle—from preparing and exploring datasets to evaluating models, communicating findings, and building interactive applications. I also have a background in **full-stack web development**, which helps me turn technical ideas into usable systems.
 
-- 🔭 **Focus:** Applied Machine Learning, Financial Analytics, NLP & Explainable AI
-- 📊 **Experience:** Classification, forecasting, feature engineering, model evaluation & data visualization
+- 🔭 **Focus:** Machine Learning, Business Intelligence, Business Analytics, Financial Analytics & NLP
+- 📊 **Experience:** Classification, forecasting, feature engineering, model evaluation, data visualization & analytical reporting
 - 🌱 **Exploring:** MLOps, cloud-based analytics, model monitoring & production ML workflows
 - 🎯 **Goal:** Grow as a Data Scientist / Machine Learning practitioner through impactful projects and industry experience
 - 🤝 **Open to:** Data Science and Machine Learning internships, collaborations & open-source learning
@@ -220,12 +220,3 @@ I'm interested in **Data Science, Machine Learning, and Data Analytics internshi
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:2563eb,100:06b6d4" alt="Decorative footer wave" />
 
 </div>
-
-<!--
-ANIMATION NOTES
-- GitHub profile READMEs do not run arbitrary JavaScript or CSS animations.
-- The typing text and banner animation use remotely generated SVG images.
-- Activity graph and statistics depend on third-party services and may occasionally be unavailable.
-- Optional contribution snake animation requires a GitHub Actions workflow and generated SVG output;
-  it is intentionally not included as a broken image.
--->
